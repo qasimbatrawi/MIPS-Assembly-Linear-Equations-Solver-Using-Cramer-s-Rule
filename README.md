@@ -1,2 +1,2 @@
 # Computer Architecture Project
-MIPS Assembly Of A System Of Linear Equations Solver Using Cramer's Rule
+MIPS Assembly of a System of Linear Equations Solver Using Cramer's Rule
