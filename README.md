@@ -3,4 +3,4 @@ MIPS Assembly Implementaion of a System of Linear Equations Solver Using Cramer'
 
 # Team Member
 
-- **Taleed Hamadneh** ([GitHub](https://github.com/taleed606))
+**Taleed Hamadneh** [GitHub](https://github.com/taleed606)
